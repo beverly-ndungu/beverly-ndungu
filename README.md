@@ -1,7 +1,7 @@
 # Hey there 👋🏽, I'm Beverly Ndungu
 
    📊 A **Junior Data Analyst** from Kenya passionate about turning raw data into **meaningful insights & stories**.  
-    Whether it's cleaning messy datasets, building dashboards, or exploring the cloud ☁️ I thrive on uncovering patterns and making data speak.
+    Whether it's cleaning messy datasets, building dashboards, or exploring the cloud ☁️ — I thrive on uncovering patterns and making data speak.
 
 ---
 
@@ -26,7 +26,7 @@ I thrive on solving complex problems, finding patterns in data, and turning numb
 </td>
 <td width="40%" valign="top" align="center">
 
-<!-- Add your photo here -->
+<img src="https://i.pinimg.com/736x/25/55/13/2555133c526c260b0468435a6e015014.jpg" width="250" style="border-radius: 20px;"/>
 
 </td>
 </tr>
