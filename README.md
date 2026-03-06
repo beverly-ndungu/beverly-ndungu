@@ -1,4 +1,4 @@
-# Hey there 👋🏽, I'm Beverly
+# Hey there 👋🏽, I'm Beverly Ndungu
 
    📊 A **Junior Data Analyst** from Kenya passionate about turning raw data into **meaningful insights & stories**.  
     Whether it's cleaning messy datasets, building dashboards, or exploring the cloud ☁️ — I thrive on uncovering patterns and making data speak.
@@ -21,7 +21,7 @@
   
 I thrive on solving complex problems, finding patterns in data, and turning numbers into stories that matter.
 
-- 📫 **Reach me at:** [beverlyndungu166@gmail.com](mailto:your@email.com)  
+- 📫 **Reach me at:** [beverlyndungu166@gmail.com](mailto:beverlyndungu166@gmail.com)  
 
 </td>
 <td width="40%" valign="top" align="center">
